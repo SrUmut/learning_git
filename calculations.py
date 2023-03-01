@@ -1,3 +1,4 @@
 a = 64
 b = 83
-print(a * b)
+c = 10
+print(a * b - c)
